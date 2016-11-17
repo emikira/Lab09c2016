@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "923008406510",
+    "firebase_url": "https://lab09-f0b61.firebaseio.com",
+    "project_id": "lab09-f0b61",
+    "storage_bucket": "lab09-f0b61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923008406510:android:b2acf5cc03a3a581",
+        "android_client_info": {
+          "package_name": "ar.edu.utn.frsf.isi.dam.laboratorio09dam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923008406510-6n7j29kr1r64eo8df7qftaumpvjscccb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdjt6F33RUzpLWvqHyglaWEKseaPBizbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923008406510:android:d8aada92692dd910",
+        "android_client_info": {
+          "package_name": "mandarine.dam.isi.frsf.utn.edu.ar.lab09c2016"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923008406510-6n7j29kr1r64eo8df7qftaumpvjscccb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdjt6F33RUzpLWvqHyglaWEKseaPBizbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
